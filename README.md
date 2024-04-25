@@ -2,6 +2,12 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.0.
 
+Angular commands<br>
+ng build --configuration production<br>
+ng serve<br>
+ng g c landscape<br>
+ng new MyHomePlan<br>
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
