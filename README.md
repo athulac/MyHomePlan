@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.0.
 
 Angular commands
-ng build --configuration production
+ng build --configuration production<br>
 ng serve
 ng g c landscape
 
