@@ -89,10 +89,10 @@ h6,
 /*** Navbar ***/
 .navbar .dropdown-toggle::after {
     border: none;
-    content: "\f107";
+    content: "\f0d7";
     font-family: "Font Awesome 5 Free";
     font-weight: 900;
-    vertical-align: middle;
+    vertical-align: top;
     margin-left: 8px;
 }
 
@@ -415,4 +415,16 @@ h6,
 
 .copyright a:hover {
     color: var(--light);
+}
+
+
+/* customize */
+.dropdown-menu{
+    background-color: #EAA636 !important;
+}
+#footer a {
+    color: #FFFFFF !important;
+}
+#footer a :hover {
+    color: #EAA636 !important;
 }
