@@ -2,10 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.0.
 
-Angular commands
+Angular commands<br>
 ng build --configuration production<br>
-ng serve
-ng g c landscape
+ng serve<br>
+ng g c landscape<br>
 
 ## Development server
 
