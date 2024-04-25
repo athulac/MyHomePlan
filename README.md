@@ -6,6 +6,7 @@ Angular commands<br>
 ng build --configuration production<br>
 ng serve<br>
 ng g c landscape<br>
+ng new MyHomePlan<br>
 
 ## Development server
 
