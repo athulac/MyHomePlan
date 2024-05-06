@@ -3,10 +3,19 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.0.
 
 Angular commands<br>
-ng build --configuration production<br>
-ng serve<br>
+ng build --configuration production (for prod release build)<br>
+ng serve (run app)<br>
 ng g c landscape<br>
 ng new MyHomePlan<br>
+
+npm install
+npm install @angular/platform-browser --save --force<br>
+npm install @angular/router --force<br>
+
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned<br>
+Get-ExecutionPolicy -Scope CurrentUser<br>
+Get-ExecutionPolicy -List<br>
+
 
 ## Development server
 
